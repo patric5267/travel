@@ -1,0 +1,12 @@
+.rightsection{
+   background-image: url(./images/hero.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+ 
+}
+
+.boat{
+   background-image: url(./images/boat.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
